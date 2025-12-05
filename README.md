@@ -15,6 +15,6 @@ Current streak: ![2](https://img.shields.io/badge/streak-2-green) days
 Started: 05 Dec 2025  
 Target finish: March 2026
 
-#100DaysOfCode | Follow the journey on X: [@DevangSan48819](https://x.com/DevangSan48819)
+#100DaysOfCode | Follow the journey on X: [@Devang_Sankhla](https://x.com/Devang_Sankhla)
 
 “Let’s fucking go.”
