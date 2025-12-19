@@ -13,4 +13,4 @@ Note: Code written for https://reeborg.ca — can't run locally, but logic is fu
 
 Proudest project so far — felt impossible at first.
 
-Demo video on X: [link to your Day 6 tweet/video]
+Demo video on X: https://x.com/Devang_Sankhla/status/2001542919527055746?s=20
