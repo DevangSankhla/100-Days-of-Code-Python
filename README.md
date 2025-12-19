@@ -11,7 +11,7 @@ Following Dr. Angela Yu’s legendary **100 Days of Code – The Complete Python
 - Transition into AI engineering / indie-hacking  
 - Land high-paying roles or build my own AI startup
 
-Current streak: ![7](https://img.shields.io/badge/streak-2-green) days  
+Current streak: 7 days  
 Started: 05 Dec 2025  
 Target finish: March 2026
 
