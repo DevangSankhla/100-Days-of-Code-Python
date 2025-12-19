@@ -12,4 +12,4 @@ Classic Rock Paper Scissors game against the computer.
 ## How to Play
 Run `main.py` → Choose rock (0), paper (1), or scissors (2) → See if you beat the computer!
 
-Demo on X: [link to your Day 4 tweet/video]
+Demo on X: https://x.com/Devang_Sankhla/status/2000813926263701632?s=20
