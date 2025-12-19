@@ -14,4 +14,4 @@ Easy → Hard levels available.
 Want 8 letters, 4 symbols, 4 numbers?  
 → Something like: `J}aW%kP!2@mL$9#x`
 
-Demo on X: [link to your Day 5 tweet/video]
+Demo on X: https://x.com/Devang_Sankhla/status/2001143726102696067?s=20
