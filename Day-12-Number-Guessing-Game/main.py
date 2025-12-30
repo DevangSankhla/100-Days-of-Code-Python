@@ -1,5 +1,5 @@
 import random
-from art import logo
+import art
 
 
 def get_difficulty():
@@ -23,7 +23,7 @@ def check_guess(guess, answer):
 
 
 def play_game():
-    print(logo)
+    print(art.logo)
     print("Welcome to the Number Guessing Game!")
     print("I'm thinking of a number between 1 and 100.")
 
